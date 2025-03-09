@@ -1,3 +1,4 @@
+//Perform addition comparision of 1D & 3D vectors
 #include <device_launch_parameters.h>
 #include <stdio.h>
 #include <stdlib.h>
