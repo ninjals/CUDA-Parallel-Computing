@@ -1,3 +1,4 @@
+//Perform addition of 1D vectors
 #include <device_launch_parameters.h>
 #include <stdio.h>
 #include <stdlib.h>
